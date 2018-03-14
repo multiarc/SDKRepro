@@ -18,7 +18,6 @@
     <ProjectReference Include="..\B\B.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="cloudscribe.Web.Pagination" Version="1.1.4" />
     <PackageReference Include="Microsoft.AspNetCore.DataProtection" Version="1.1.3" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics" Version="1.1.5" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="1.1.7" />
